@@ -23,7 +23,7 @@ Key Findings:
 ```
 @article{pltBioMarker2026,
   title  = {Boolean implication analysis identifies MRGPRX2 as a lineage-restricted mast-cell biomarker},
-  author = {H M Zabir Haque<sup>#</sup>, Prisha Kaushik<sup>#</sup>, and Debashis Sahoo},
+  author = {H M Zabir Haque, Prisha Kaushik, and Debashis Sahoo},
   note   = {Manuscript under review}
 }
 ```
